@@ -1,16 +1,12 @@
-### Hi there 👋
+# Gabriel Ferreira
 
-<!--
-**luizgabriellf/luizgabriellf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hello 👋
+I'm FullStack Engineer :computer:
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ :rocket:  &nbsp; I'm current working at **ENGING Make Solutions**
+ <br/> :purple_heart: &nbsp; I'm current learning React with some cool side projects.
+ <br/> :blush: &nbsp; I can help you with CSS Grid Layout and Flexbox
+ <br/> :computer: &nbsp; Stack: Angular2++, ReactJS (newbie), Node.js, & Typescript
+ <br/> :email: &nbsp; My Contacts: [![Linkedin Badge](https://img.shields.io/badge/-Gabriel%20Ferreira-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriellf//)](https://www.linkedin.com/in/gabriellf/) 
+| 
+[![Gmail Badge](https://img.shields.io/badge/-gabriel1492@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gabriel1492@gmail.com)](mailto:gabriel1492@gmail.com)

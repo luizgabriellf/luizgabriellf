@@ -3,7 +3,7 @@
 ## Hello 👋
 I'm FullStack Engineer :computer:
 
- :rocket:  &nbsp; I'm current working at **ENGING Make Solutions**
+ :rocket:  &nbsp; I'm current working at **Critical TechWorks | BMW Group**
  <br/> :purple_heart: &nbsp; I'm current learning React with some cool side projects.
  <br/> :blush: &nbsp; I can help you with CSS Grid Layout and Flexbox
  <br/> :computer: &nbsp; Stack: Angular2++, ReactJS (newbie), Node.js, & Typescript

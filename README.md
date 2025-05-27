@@ -1,7 +1,7 @@
 # Gabriel Ferreira
 
 ## Hello 👋
-I'm FullStack Engineer :computer:
+I'm Software Engineer :computer:
 
  :rocket:  &nbsp; I'm current working at **Critical Software**
  <br/> :purple_heart: &nbsp; I'm currently improving my AI with some projects.

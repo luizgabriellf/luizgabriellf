@@ -3,7 +3,7 @@
 ## Hello 👋
 I'm a Senior Frontend Engineer :computer: building web products in **React and TypeScript** since 2017.
 
- :rocket: &nbsp; I'm currently at **Kaizen Gaming**, in Enterprise Architecture, where my team and I build frontend SDKs for A/B testing, observability and translations, used by the Sportsbook and Casino verticals
+ :rocket: &nbsp; I'm currently at **Kaizen Gaming**, in Enterprise Architecture, where my team and I build frontend SDKs for A/B testing, observability and translations, used by customer-facing product verticals
  <br/> :hammer_and_wrench: &nbsp; I design and build **[Salvus](https://www.salvus.pt)** ([demo](https://www.salvus.pt/demo)) and **[salvflow](https://www.salvflow.com)** ([demo](https://www.salvflow.com/api/demo/enter)), two mobile-first React and Next.js SaaS products. The repos are private, but the demos show the work
  <br/> :art: &nbsp; I care about consistent interfaces: design systems, design tokens, shared component libraries and accessibility
  <br/> :purple_heart: &nbsp; Always exploring new things: LLM features with human-in-the-loop UX, local-first apps with ElectricSQL, offline-first PWAs
